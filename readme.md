@@ -26,6 +26,6 @@ lorem ipsum dolor sit amet.
 lorem ipsum dolor sit amet.
 lorem ipsum dolor sit amet.
 
-## Create Conflict then Solve Conflict
+## There are no conflicts
 
 ## Yet another Section
