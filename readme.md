@@ -26,4 +26,4 @@ lorem ipsum dolor sit amet.
 lorem ipsum dolor sit amet.
 lorem ipsum dolor sit amet.
 
-## Solve Conflict
+## Create Conflict then Solve Conflict
